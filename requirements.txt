@@ -1,0 +1,12 @@
+pandas
+pysus
+scikit-learn
+xgboost
+lightgbm
+optuna
+optuna-integration[mlflow]
+mlflow
+matplotlib
+seaborn
+shap
+pysus
